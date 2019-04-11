@@ -3,7 +3,7 @@ public class Program
 {
  public static void main()
  {
-  //comment added
+  //comment
   Console.WriteLine("Hello World");
  }
 }
