@@ -1,18 +1,22 @@
 using System;
 class Program
 {
+  //Add
   public int add(int a,int b)
   {
   return a+b;
   }
+  //Sub
   public int sub(int a,int b)
   {
   return a-b;
   }
+  //Mul
     public int mul(int a,int b)
   {
   return a*b;
   }
+  //div
     public int div(int a,int b)
   {
   return a/b;
